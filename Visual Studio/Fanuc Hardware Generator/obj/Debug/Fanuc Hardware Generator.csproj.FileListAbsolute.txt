@@ -1,0 +1,25 @@
+C:\Users\Introsys\source\repos\Fanuc Hardware Generator\Fanuc Hardware Generator\bin\Debug\Fanuc Hardware Generator.exe.config
+C:\Users\Introsys\source\repos\Fanuc Hardware Generator\Fanuc Hardware Generator\bin\Debug\Fanuc Hardware Generator.exe
+C:\Users\Introsys\source\repos\Fanuc Hardware Generator\Fanuc Hardware Generator\bin\Debug\Fanuc Hardware Generator.pdb
+C:\Users\Introsys\source\repos\Fanuc Hardware Generator\Fanuc Hardware Generator\obj\Debug\Fanuc_Hardware_Generator.MainForm.resources
+C:\Users\Introsys\source\repos\Fanuc Hardware Generator\Fanuc Hardware Generator\obj\Debug\Fanuc_Hardware_Generator.Properties.Resources.resources
+C:\Users\Introsys\source\repos\Fanuc Hardware Generator\Fanuc Hardware Generator\obj\Debug\Fanuc Hardware Generator.csproj.GenerateResource.cache
+C:\Users\Introsys\source\repos\Fanuc Hardware Generator\Fanuc Hardware Generator\obj\Debug\Fanuc Hardware Generator.exe
+C:\Users\Introsys\source\repos\Fanuc Hardware Generator\Fanuc Hardware Generator\obj\Debug\Fanuc Hardware Generator.pdb
+F:\FANUC Hardware Generator\Visual Studio\Fanuc Hardware Generator\bin\Debug\Fanuc Hardware Generator.exe.config
+F:\FANUC Hardware Generator\Visual Studio\Fanuc Hardware Generator\bin\Debug\Fanuc Hardware Generator.exe
+F:\FANUC Hardware Generator\Visual Studio\Fanuc Hardware Generator\bin\Debug\Fanuc Hardware Generator.pdb
+F:\FANUC Hardware Generator\Visual Studio\Fanuc Hardware Generator\obj\Debug\Fanuc_Hardware_Generator.MainForm.resources
+F:\FANUC Hardware Generator\Visual Studio\Fanuc Hardware Generator\obj\Debug\Fanuc_Hardware_Generator.Properties.Resources.resources
+F:\FANUC Hardware Generator\Visual Studio\Fanuc Hardware Generator\obj\Debug\Fanuc Hardware Generator.csproj.GenerateResource.cache
+F:\FANUC Hardware Generator\Visual Studio\Fanuc Hardware Generator\obj\Debug\Fanuc Hardware Generator.exe
+F:\FANUC Hardware Generator\Visual Studio\Fanuc Hardware Generator\obj\Debug\Fanuc Hardware Generator.pdb
+D:\FANUC Hardware Generator\Visual Studio\Fanuc Hardware Generator\bin\Debug\Fanuc Hardware Generator.exe.config
+D:\FANUC Hardware Generator\Visual Studio\Fanuc Hardware Generator\bin\Debug\Fanuc Hardware Generator.exe
+D:\FANUC Hardware Generator\Visual Studio\Fanuc Hardware Generator\bin\Debug\Fanuc Hardware Generator.pdb
+D:\FANUC Hardware Generator\Visual Studio\Fanuc Hardware Generator\obj\Debug\Fanuc Hardware Generator.csprojAssemblyReference.cache
+D:\FANUC Hardware Generator\Visual Studio\Fanuc Hardware Generator\obj\Debug\Fanuc_Hardware_Generator.MainForm.resources
+D:\FANUC Hardware Generator\Visual Studio\Fanuc Hardware Generator\obj\Debug\Fanuc_Hardware_Generator.Properties.Resources.resources
+D:\FANUC Hardware Generator\Visual Studio\Fanuc Hardware Generator\obj\Debug\Fanuc Hardware Generator.csproj.GenerateResource.cache
+D:\FANUC Hardware Generator\Visual Studio\Fanuc Hardware Generator\obj\Debug\Fanuc Hardware Generator.exe
+D:\FANUC Hardware Generator\Visual Studio\Fanuc Hardware Generator\obj\Debug\Fanuc Hardware Generator.pdb
